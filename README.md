@@ -10,7 +10,7 @@ By default, the app uses a private Firebase project for authentication and stora
 To register and connect to your own project, delete `app/google-services.json` and
 follow the instructions [here](https://firebase.google.com/docs/android/setup#console).
 
-Two demo accounts are available in case you don't want to register new users:
+Two demo accounts are available in case you don't want to sign up:
 
 Username | Password
 ------------ | -------------
