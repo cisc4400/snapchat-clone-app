@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666520588003",
+    "project_id": "snapchat-clone-a04de",
+    "storage_bucket": "snapchat-clone-a04de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666520588003:android:2dbbe08bae67eea7f1ffd6",
+        "android_client_info": {
+          "package_name": "edu.fordham.snapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666520588003-qe5s7vpoq9t5qgap9rmphk3l1n51v27s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj1yyTYL_iTRAdM1aJmSEuWMhIyZTotoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666520588003-qe5s7vpoq9t5qgap9rmphk3l1n51v27s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
